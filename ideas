@@ -6,7 +6,6 @@ Numbers can be present in following forms:
    Eg. A 1994 study showed ...  
    -- we will solve a general problem of extracting adjective features from phrases like "US born presedent" -- 
 
-
 2. Adverbs:
    Eg. Captain Crook tried to set his foot on the island thrice
    -- not too difficult I guess --
@@ -22,4 +21,7 @@ Numbers can be present in following forms:
 
 5. "one" as a determiner
    Eg. Sprint temperatures vary a lot from one week to another.
-   -- no number extraction here -- 
+   -- no number extraction here --
+
+6. after noun adjectives
+   Eg. In world war 2, ...
