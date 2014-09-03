@@ -2,13 +2,22 @@ Numbers can be present in following forms:
 
 
 1. Adjectives:
-   Eg. 8 year old girl
+   Eg. 8 year old girl was ...
+   Eg. A 1994 study showed ...  
    -- we will solve a general problem of extracting adjective features from phrases like "US born presedent" -- 
 
 
 2. Adverbs:
    Eg. Captain Crook tried to set his foot on the island thrice
-
+   -- not too difficult I guess --
+   -- dependency parser will take good care of this --
+   
 3. One of the:
    Eg. This is one of the best songs I have heard in my lifetime.
    -- nothing to be changed here, just don't fuck it up --
+
+4. Percentage:
+   Eg. About 5% of people are ...
+   -- is this same as 1. ? -- 
+
+   
