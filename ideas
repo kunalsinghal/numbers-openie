@@ -1,0 +1,14 @@
+Numbers can be present in following forms:
+
+
+1. Adjectives:
+   Eg. 8 year old girl
+   -- we will solve a general problem of extracting adjective features from phrases like "US born presedent" -- 
+
+
+2. Adverbs:
+   Eg. Captain Crook tried to set his foot on the island thrice
+
+3. One of the:
+   Eg. This is one of the best songs I have heard in my lifetime.
+   -- nothing to be changed here, just don't fuck it up --
