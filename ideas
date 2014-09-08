@@ -25,3 +25,17 @@ Numbers can be present in following forms:
 
 6. after noun adjectives
    Eg. In world war 2, ...
+
+
+
+
+
+How should the final thing look like? How to sneak in the new extractions?
+
+Consider the following:
+
+Between August 26 and September 5, the U.S. lost about 15 aircraft while the Japanese lost approximately 19 aircraft.
+0.97 (the U.S.; lost; about 15 aircraft; while the Japanese lost approximately 19 aircraft; Between August 26 and September 5)
+0.94 (the Japanese; lost; approximately 19 aircraft)
+
+How to make any additions to a sentence like this? 
