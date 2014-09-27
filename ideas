@@ -27,7 +27,8 @@ Numbers can be present in following forms:
    Eg. In world war 2, ...
 
 
-
+7. Cardinal number
+   Eg. 15 people died in JK floods. 
 
 
 How should the final thing look like? How to sneak in the new extractions?
@@ -38,4 +39,24 @@ Between August 26 and September 5, the U.S. lost about 15 aircraft while the Jap
 0.97 (the U.S.; lost; about 15 aircraft; while the Japanese lost approximately 19 aircraft; Between August 26 and September 5)
 0.94 (the Japanese; lost; approximately 19 aircraft)
 
-How to make any additions to a sentence like this? 
+How to make any additions to a sentence like this?
+
+------------------------------------------------------------
+
+Now, lets list all the possible tags for numbers:
+
+CDJ: adjective
+CDR: adverb
+CDT: time
+CDN: noun  -- Aluminium with atomic number 13 is ....
+CD: actually denotes cardinality of a set (of noun)
+
+
+----------------------------------------
+
+CDT:
+
+Appears mostly as year.
+Four digit numbers greater than 1000 and less than 3000 in wikipedia would make a good trainig data.
+
+---------------------------------------
