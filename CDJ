@@ -1,0 +1,6 @@
+2
+A 8 year old girl was shot in the head at point blank range.
+[('A', 'DT'), ('8', 'CD'), ('year', 'NN'), ('old', 'JJ'), ('girl', 'NN'), ('was', 'VBD'), ('shot', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('head', 'NN'), ('at', 'IN'), ('point', 'NN'), ('blank', 'NN'), ('range', 'NN'), ('.', '.')]
+
+
+

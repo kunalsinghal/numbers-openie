@@ -1,0 +1,12 @@
+16
+It remains one of the most notable historic firms, having produced many of the flying boats, and the world's first hovercraft.The island's major manufacturing activity today is in composite materials, used by boat-builders and the wind turbine manufacturer Vestas, which has a wind turbine blade factory and testing facilities in Newport and East Cowes.Bembridge Airfield is the home of Britten-Norman, manufacturers of the Islander and Trislander aircraft.
+[('It', 'PRP'), ('remains', 'VBZ'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('most', 'RBS'), ('notable', 'JJ'), ('historic', 'JJ'), ('firms', 'NNS'), (',', ','), ('having', 'VBG'), ('produced', 'VBN'), ('many', 'JJ'), ('of', 'IN'), ('the', 'DT'), ('flying', 'NN'), ('boats', 'NNS'), (',', ','), ('and', 'CC'), ('the', 'DT'), ('world', 'NN'), ("'s", 'POS'), ('first', 'JJ'), ('hovercraft.The', 'NN'), ('island', 'NN'), ("'s", 'POS'), ('major', 'JJ'), ('manufacturing', 'NN'), ('activity', 'NN'), ('today', 'NN'), ('is', 'VBZ'), ('in', 'IN'), ('composite', 'JJ'), ('materials', 'NNS'), (',', ','), ('used', 'VBN'), ('by', 'IN'), ('boat-builders', 'NNS'), ('and', 'CC'), ('the', 'DT'), ('wind', 'NN'), ('turbine', 'NN'), ('manufacturer', 'NN'), ('Vestas', 'NNP'), (',', ','), ('which', 'WDT'), ('has', 'VBZ'), ('a', 'DT'), ('wind', 'NN'), ('turbine', 'NN'), ('blade', 'NN'), ('factory', 'NN'), ('and', 'CC'), ('testing', 'NN'), ('facilities', 'NNS'), ('in', 'IN'), ('Newport', 'NNP'), ('and', 'CC'), ('East', 'NNP'), ('Cowes.Bembridge', 'NNP'), ('Airfield', 'NNP'), ('is', 'VBZ'), ('the', 'DT'), ('home', 'NN'), ('of', 'IN'), ('Britten-Norman', 'JJ'), (',', ','), ('manufacturers', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('Islander', 'NNP'), ('and', 'CC'), ('Trislander', 'NNP'), ('aircraft', 'NN'), ('.', '.')]
+
+
+
+19
+The Cardinals won the next two games and seemed to have Game 4 in complete control until the Brewers rallied for six runs in the 7th to win the game 7-5.
+[('The', 'DT'), ('Cardinals', 'NNS'), ('won', 'VBD'), ('the', 'DT'), ('next', 'JJ'), ('two', 'CD'), ('games', 'NNS'), ('and', 'CC'), ('seemed', 'VBD'), ('to', 'TO'), ('have', 'VB'), ('Game', 'NNP'), ('4', 'CD'), ('in', 'IN'), ('complete', 'JJ'), ('control', 'NN'), ('until', 'IN'), ('the', 'DT'), ('Brewers', 'NNPS'), ('rallied', 'VBD'), ('for', 'IN'), ('six', 'CD'), ('runs', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('7th', 'JJ'), ('to', 'TO'), ('win', 'VB'), ('the', 'DT'), ('game', 'NN'), ('7-5', 'CD'), ('.', '.')]
+
+
+

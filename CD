@@ -1,0 +1,30 @@
+1
+Alabama's programs of higher education include 14 four-year public universities, two-year community colleges, and 17 private, undergraduate and graduate universities.
+[('Alabama', 'NNP'), ("'s", 'POS'), ('programs', 'NNS'), ('of', 'IN'), ('higher', 'JJR'), ('education', 'NN'), ('include', 'VBP'), ('14', 'CD'), ('four-year', 'JJ'), ('public', 'JJ'), ('universities', 'NNS'), (',', ','), ('two-year', 'JJ'), ('community', 'NN'), ('colleges', 'NNS'), (',', ','), ('and', 'CC'), ('17', 'CD'), ('private', 'JJ'), (',', ','), ('undergraduate', 'JJ'), ('and', 'CC'), ('graduate', 'JJ'), ('universities', 'NNS'), ('.', '.')]
+
+
+
+15
+The project involves more than 11 different countries and multiple radars in both hemispheres.Scientists are also examining the ionosphere by the changes to radio waves from satellites and stars passing through it.
+[('The', 'DT'), ('project', 'NN'), ('involves', 'VBZ'), ('more', 'JJR'), ('than', 'IN'), ('11', 'CD'), ('different', 'JJ'), ('countries', 'NNS'), ('and', 'CC'), ('multiple', 'VB'), ('radars', 'NNS'), ('in', 'IN'), ('both', 'DT'), ('hemispheres.Scientists', 'NNS'), ('are', 'VBP'), ('also', 'RB'), ('examining', 'VBG'), ('the', 'DT'), ('ionosphere', 'NN'), ('by', 'IN'), ('the', 'DT'), ('changes', 'NNS'), ('to', 'TO'), ('radio', 'VB'), ('waves', 'NNS'), ('from', 'IN'), ('satellites', 'NNS'), ('and', 'CC'), ('stars', 'NNS'), ('passing', 'VBG'), ('through', 'IN'), ('it', 'PRP'), ('.', '.')]
+
+
+
+18
+During the reign of Henry III the Assize of Arms of 1252 required that all "citizens, burgesses, free tenants, villeins and others from 15 to 60 years of age" should be armed.
+[('During', 'IN'), ('the', 'DT'), ('reign', 'NN'), ('of', 'IN'), ('Henry', 'NNP'), ('III', 'NNP'), ('the', 'DT'), ('Assize', 'NNP'), ('of', 'IN'), ('Arms', 'NNP'), ('of', 'IN'), ('1252', 'CD'), ('required', 'VBN'), ('that', 'IN'), ('all', 'DT'), ('``', '``'), ('citizens', 'NNS'), (',', ','), ('burgesses', 'NNS'), (',', ','), ('free', 'JJ'), ('tenants', 'NNS'), (',', ','), ('villeins', 'NNS'), ('and', 'CC'), ('others', 'NNS'), ('from', 'IN'), ('15', 'CD'), ('to', 'TO'), ('60', 'CD'), ('years', 'NNS'), ('of', 'IN'), ('age', 'NN'), ("''", "''"), ('should', 'MD'), ('be', 'VB'), ('armed', 'VBN'), ('.', '.')]
+
+
+
+23
+There may also be "near minimal pairs" or other data which show that speakers of the language perceive two sounds as significantly different even if no exact minimal pairs exist in the lexicon.
+[('There', 'EX'), ('may', 'MD'), ('also', 'RB'), ('be', 'VB'), ('``', '``'), ('near', 'IN'), ('minimal', 'JJ'), ('pairs', 'NNS'), ("''", "''"), ('or', 'CC'), ('other', 'JJ'), ('data', 'NNS'), ('which', 'WDT'), ('show', 'NN'), ('that', 'IN'), ('speakers', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('language', 'NN'), ('perceive', 'NN'), ('two', 'CD'), ('sounds', 'NNS'), ('as', 'IN'), ('significantly', 'RB'), ('different', 'JJ'), ('even', 'RB'), ('if', 'IN'), ('no', 'DT'), ('exact', 'JJ'), ('minimal', 'JJ'), ('pairs', 'NNS'), ('exist', 'VBP'), ('in', 'IN'), ('the', 'DT'), ('lexicon', 'NN'), ('.', '.')]
+
+
+
+25
+Home gardeners often plant a piece of potato with two or three eyes in a hill of mounded soil.
+[('Home', 'NN'), ('gardeners', 'NNS'), ('often', 'RB'), ('plant', 'JJ'), ('a', 'DT'), ('piece', 'NN'), ('of', 'IN'), ('potato', 'NN'), ('with', 'IN'), ('two', 'CD'), ('or', 'CC'), ('three', 'CD'), ('eyes', 'NNS'), ('in', 'IN'), ('a', 'DT'), ('hill', 'NN'), ('of', 'IN'), ('mounded', 'VBN'), ('soil', 'NN'), ('.', '.')]
+
+
+

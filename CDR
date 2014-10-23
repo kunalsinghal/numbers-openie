@@ -1,0 +1,6 @@
+14
+Captain Cook tried to set his foot thrice on the island but was repulsed each of the three times.
+[('Captain', 'NNP'), ('Cook', 'NNP'), ('tried', 'VBD'), ('to', 'TO'), ('set', 'VB'), ('his', 'PRP$'), ('foot', 'NN'), ('thrice', 'NN'), ('on', 'IN'), ('the', 'DT'), ('island', 'NN'), ('but', 'CC'), ('was', 'VBD'), ('repulsed', 'VBN'), ('each', 'DT'), ('of', 'IN'), ('the', 'DT'), ('three', 'CD'), ('times', 'NNS'), ('.', '.')]
+
+
+
