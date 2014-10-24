@@ -109,21 +109,10 @@ public class Wikipedia2Txt {
 									replaceAll("(?m)<ref name=\"[A-Za-z0-9\\s-]+\">.+</ref>"," ").
 									replaceAll("<ref>"," <ref>");
 
-				// Remove text inside {{ }}
 				String plainStr = wikiModel.render(new PlainTextConverter(), wikiText).
 					replaceAll("\\{\\{[A-Za-z+\\s-]+\\}\\}"," ");
 
-				//Matcher regexMatcher = regex.matcher(plainStr);
 
-				/*while (regexMatcher.find())
-				{
-					// Get sentences with 6 or more words
-					String sentence = regexMatcher.group();
-
-					if (matchSpaces(sentence, 5)) {
-						out.println(sentence);
-					}
-				}*/
 				String sentences[] = new String[1];
 				try{ 
 					sentences = SentenceDetect(plainStr);

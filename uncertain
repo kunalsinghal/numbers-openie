@@ -10,3 +10,27 @@ The Cardinals won the next two games and seemed to have Game 4 in complete contr
 
 
 
+57
+But the Kings would go on to eliminate the Canucks in six games, with the pivotal victory coming in Game 5 at Vancouver, which was tied 3-3 at the end of regulation play.
+[('But', 'CC'), ('the', 'DT'), ('Kings', 'NNS'), ('would', 'MD'), ('go', 'VB'), ('on', 'IN'), ('to', 'TO'), ('eliminate', 'VB'), ('the', 'DT'), ('Canucks', 'NNP'), ('in', 'IN'), ('six', 'CD'), ('games', 'NNS'), (',', ','), ('with', 'IN'), ('the', 'DT'), ('pivotal', 'JJ'), ('victory', 'NN'), ('coming', 'VBG'), ('in', 'IN'), ('Game', 'NNP'), ('5', 'CD'), ('at', 'IN'), ('Vancouver', 'NNP'), (',', ','), ('which', 'WDT'), ('was', 'VBD'), ('tied', 'VBN'), ('3-3', 'CD'), ('at', 'IN'), ('the', 'DT'), ('end', 'NN'), ('of', 'IN'), ('regulation', 'NN'), ('play', 'NN'), ('.', '.')]
+
+
+
+70
+Later, culinary writer and children's book author Crescent Dragonwagon, dubbed by USA Today "the most interesting person in Eureka Springs", made her home there for 33 years.
+[('Later', 'JJ'), (',', ','), ('culinary', 'JJ'), ('writer', 'NN'), ('and', 'CC'), ('children', 'NNS'), ("'s", 'POS'), ('book', 'NN'), ('author', 'NN'), ('Crescent', 'NNP'), ('Dragonwagon', 'NNP'), (',', ','), ('dubbed', 'VBD'), ('by', 'IN'), ('USA', 'NNP'), ('Today', 'NNP'), ('``', '``'), ('the', 'DT'), ('most', 'JJS'), ('interesting', 'JJ'), ('person', 'NN'), ('in', 'IN'), ('Eureka', 'NNP'), ('Springs', 'NNP'), ("''", "''"), (',', ','), ('made', 'VBN'), ('her', 'PRP$'), ('home', 'NN'), ('there', 'RB'), ('for', 'IN'), ('33', 'CD'), ('years', 'NNS'), ('.', '.')]
+
+
+
+74
+In the state legislature Aptos Hills-Larkin Valley is located in the 15th Senate District, represented by Republican Sam Blakeslee as of the 17 August 2010 special runoff election, and in the 27th Assembly District, represented by Democrat Bill Monning.
+[('In', 'IN'), ('the', 'DT'), ('state', 'NN'), ('legislature', 'NN'), ('Aptos', 'NNP'), ('Hills-Larkin', 'NNP'), ('Valley', 'NNP'), ('is', 'VBZ'), ('located', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('15th', 'JJ'), ('Senate', 'NNP'), ('District', 'NNP'), (',', ','), ('represented', 'VBD'), ('by', 'IN'), ('Republican', 'NNP'), ('Sam', 'NNP'), ('Blakeslee', 'NNP'), ('as', 'IN'), ('of', 'IN'), ('the', 'DT'), ('17', 'CD'), ('August', 'NNP'), ('2010', 'CD'), ('special', 'JJ'), ('runoff', 'NN'), ('election', 'NN'), (',', ','), ('and', 'CC'), ('in', 'IN'), ('the', 'DT'), ('27th', 'JJ'), ('Assembly', 'NNP'), ('District', 'NNP'), (',', ','), ('represented', 'VBD'), ('by', 'IN'), ('Democrat', 'NNP'), ('Bill', 'NNP'), ('Monning', 'NNP'), ('.', '.')]
+
+
+
+81
+The median age was 36 years.
+[('The', 'DT'), ('median', 'JJ'), ('age', 'NN'), ('was', 'VBD'), ('36', 'CD'), ('years', 'NNS'), ('.', '.')]
+
+
+

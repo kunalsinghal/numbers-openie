@@ -1,1 +1,37 @@
+62
+Males had a median income of $36,478 versus $25,000 for females.
+[('Males', 'NNS'), ('had', 'VBD'), ('a', 'DT'), ('median', 'JJ'), ('income', 'NN'), ('of', 'IN'), ('$', '$'), ('36,478', 'CD'), ('versus', 'NNS'), ('$', '$'), ('25,000', 'CD'), ('for', 'IN'), ('females', 'NNS'), ('.', '.')]
+
+
+
+63
+Its county seat is La Grande; in 2010, the county population was 25,748.
+[('Its', 'PRP$'), ('county', 'NN'), ('seat', 'NN'), ('is', 'VBZ'), ('La', 'NNP'), ('Grande', 'NNP'), (';', ':'), ('in', 'IN'), ('2010', 'CD'), (',', ','), ('the', 'DT'), ('county', 'NN'), ('population', 'NN'), ('was', 'VBD'), ('25,748', 'CD'), ('.', '.')]
+
+
+
+71
+For every 100 females age 18 and over, there were 82.2 males.The median income for a household in the city was $25,208, and the median income for a family was $32,875.
+[('For', 'IN'), ('every', 'DT'), ('100', 'CD'), ('females', 'NNS'), ('age', 'NN'), ('18', 'CD'), ('and', 'CC'), ('over', 'IN'), (',', ','), ('there', 'EX'), ('were', 'VBD'), ('82.2', 'CD'), ('males.The', 'JJ'), ('median', 'JJ'), ('income', 'NN'), ('for', 'IN'), ('a', 'DT'), ('household', 'NN'), ('in', 'IN'), ('the', 'DT'), ('city', 'NN'), ('was', 'VBD'), ('$', '$'), ('25,208', 'CD'), (',', ','), ('and', 'CC'), ('the', 'DT'), ('median', 'JJ'), ('income', 'NN'), ('for', 'IN'), ('a', 'DT'), ('family', 'NN'), ('was', 'VBD'), ('$', '$'), ('32,875', 'CD'), ('.', '.')]
+
+
+
+82
+As of the 2010 census, the city population was 22,158.
+[('As', 'IN'), ('of', 'IN'), ('the', 'DT'), ('2010', 'CD'), ('census', 'NN'), (',', ','), ('the', 'DT'), ('city', 'NN'), ('population', 'NN'), ('was', 'VBD'), ('22,158', 'CD'), ('.', '.')]
+
+
+
+88
+For every 100 females age 18 and over, there were 79.4 males.The median income for a household in the city was $25,750, and for a family was $33,553.
+[('For', 'IN'), ('every', 'DT'), ('100', 'CD'), ('females', 'NNS'), ('age', 'NN'), ('18', 'CD'), ('and', 'CC'), ('over', 'IN'), (',', ','), ('there', 'EX'), ('were', 'VBD'), ('79.4', 'CD'), ('males.The', 'JJ'), ('median', 'JJ'), ('income', 'NN'), ('for', 'IN'), ('a', 'DT'), ('household', 'NN'), ('in', 'IN'), ('the', 'DT'), ('city', 'NN'), ('was', 'VBD'), ('$', '$'), ('25,750', 'CD'), (',', ','), ('and', 'CC'), ('for', 'IN'), ('a', 'DT'), ('family', 'NN'), ('was', 'VBD'), ('$', '$'), ('33,553', 'CD'), ('.', '.')]
+
+
+
+89
+About 9.0% of families and 13.2% of the population were below the poverty line, including 22.0% of those under age 18 and 14.5% of those age 65 or over.
+[('About', 'IN'), ('9.0', 'CD'), ('%', 'NN'), ('of', 'IN'), ('families', 'NNS'), ('and', 'CC'), ('13.2', 'CD'), ('%', 'NN'), ('of', 'IN'), ('the', 'DT'), ('population', 'NN'), ('were', 'VBD'), ('below', 'IN'), ('the', 'DT'), ('poverty', 'NN'), ('line', 'NN'), (',', ','), ('including', 'VBG'), ('22.0', 'CD'), ('%', 'NN'), ('of', 'IN'), ('those', 'DT'), ('under', 'IN'), ('age', 'NN'), ('18', 'CD'), ('and', 'CC'), ('14.5', 'CD'), ('%', 'NN'), ('of', 'IN'), ('those', 'DT'), ('age', 'NN'), ('65', 'CD'), ('or', 'CC'), ('over', 'IN'), ('.', '.')]
+
+
+
 	

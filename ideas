@@ -43,7 +43,7 @@ How to make any additions to a sentence like this?
 
 ------------------------------------------------------------
 
-Now, lets list all the possible tags for numbers:
+Possible list of tags for numbers. 
 
 CDJ: adjective
 CDR: adverb
@@ -52,6 +52,7 @@ CDN: noun  -- Aluminium with atomic number 13 is ....
 CD: actually denotes cardinality of a set (of noun)
 
 
+Getting the traing data
 ----------------------------------------
 
 CDT:
@@ -60,3 +61,61 @@ Appears mostly as year.
 Four digit numbers greater than 1000 and less than 3000 in wikipedia would make a good trainig data.
 
 ---------------------------------------
+
+CDR:
+
+1. Rule1: number followed by "times" or "thrice" or "twice" or "once"
+2. Extract the verb associated with the adverb and then find all the sentences with the same verb and exact same numeral.
+   Label that numeral in all those sentences as CDR.
+
+Though rule1 should be enough but still just to verify lets step 2.
+
+----------------------------------------
+
+CDN:
+
+If the number is the last element of a noun phrase.
+Eg. Aluminium with ---atomic number 13--- is a metal.
+
+We can again bootstrap using this to get more sentence structures. How? Look for senteces which contains the concerned numeral along with the rest of the words in the noun phrase. The numeral in these senteces ought to be CDN.
+
+-----------------------------------------
+
+CD and CDJ are a bit difficult as they both appear when a number is follwed by a noun. However for CDJ we have the number to be start of an adjetive phrase but we do not have an adjective phrase chunker do we? Possible list of tags for numbers. 
+
+CDJ: adjective
+CDR: adverb
+CDT: time
+CDN: noun  -- Aluminium with atomic number 13 is ....
+CD: denotes cardinality of a set (of noun) --eg-- 50 people are enrolled in NLP course. 
+
+
+Getting the training data
+----------------------------------------
+
+CDT:
+
+Appears mostly as year.
+Four digit numbers greater than 1000 and less than 3000 in wikipedia could make a good training data covering most of the syntactic diversity of CDT. 
+
+---------------------------------------
+
+CDR:
+
+1. Rule: number followed by "times" or "-ce" like "thrice" or "twice" or "once"
+2. Extract the verb associated with the adverb and then find all the sentences with the same verb and exact same numeral.
+   Label that numeral in all those sentences as CDR.
+
+
+----------------------------------------
+
+CDN:
+
+If the number is the last element of a noun phrase.
+Eg. Aluminium with ---atomic number 13--- is a metal.
+
+We can again bootstrap using this to get more sentence structures. How? Look for sentences which contains the concerned numeral along with the rest of the words in the noun phrase. The numeral in these sentences ought to be CDN.
+
+-----------------------------------------
+
+CD and CDJ are a bit difficult as they both appear when a number is followed by a noun. However for CDJ we have the number to be start of an adjective phrase but we do not have an adjective phrase chunker do we? 
